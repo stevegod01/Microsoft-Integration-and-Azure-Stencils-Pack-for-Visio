@@ -2,7 +2,7 @@
 
 ## MIS Azure Stencils
 
-This package contains stencils that will the original icons to represent the Azure Portal, Azure Services and Visual Studio Team Services features.
+This package contains stencils that with the original icons to represent the Azure Portal, Azure Services and Visual Studio Team Services features.
 
 ![Microsoft Azure ](../media/Microsoft-Azure.png)
 
